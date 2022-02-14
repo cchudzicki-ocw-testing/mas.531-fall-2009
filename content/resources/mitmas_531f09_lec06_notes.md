@@ -4,7 +4,12 @@ description: Lecture presentation on light fields, cameras for human-computer in
   and BiDi screen.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/mas-531-computational-camera-and-photography-fall-2009/b44ed19567b280f075960c5978f3bd2f_MITMAS_531F09_lec06_notes.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Class 6: Cameras for HCI'
+type: OCWFile
 uid: b44ed195-67b2-80f0-7596-0c5978f3bd2f
 ---
