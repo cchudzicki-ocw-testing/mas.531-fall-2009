@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Single-shot Multidomain Camera
-type: OCWFile
 uid: dc2fc981-b218-4f2a-413d-be96dc1d91ca
 ---

@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Chicken Cam: Sharp Images from a Moving Camera'
-type: OCWFile
 uid: d1a039b7-4c71-82d4-c9f5-012667ca5a8f
 ---

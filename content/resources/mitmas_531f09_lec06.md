@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Lightfields, part 2
-type: OCWFile
 uid: a103c24a-51ae-ab7c-e02f-6f715c7c33d1
 ---

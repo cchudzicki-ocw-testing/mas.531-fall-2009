@@ -3,7 +3,6 @@ content_type: page
 learning_resource_types:
 - Projects
 title: Projects
-type: CourseSection
 uid: 2fcf5de0-b2b1-19ca-33d1-c6ff7c739036
 ---
 

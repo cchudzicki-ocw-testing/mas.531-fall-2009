@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Photography Wishlist
-type: OCWFile
 uid: 528b4944-bfe0-aba2-7c2e-69b20682331f
 ---

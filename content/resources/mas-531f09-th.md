@@ -17,6 +17,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: A grid-shaped light pattern through a grating
-type: OCWImage
 uid: 5e157fbb-999e-9f41-b884-ed3d583dd8a5
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Coded imaging
-type: OCWFile
 uid: 9b592453-dcc8-51be-79ce-e815b30cf508
 ---

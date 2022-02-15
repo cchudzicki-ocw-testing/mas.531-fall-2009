@@ -13,6 +13,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Animal Eyes
-type: OCWFile
 uid: 784fbe9e-6945-839f-5a94-d2218cc3ffdf
 ---

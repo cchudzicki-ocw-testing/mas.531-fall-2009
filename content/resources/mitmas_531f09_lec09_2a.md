@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Cameras We Cannot Picture
-type: OCWFile
 uid: 2ffc05d3-8cb0-5cb1-bca9-2ab86cd58d06
 ---

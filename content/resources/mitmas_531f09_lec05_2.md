@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Retrographic Sensing for the Measurement of Surface Texture and Shape
-type: OCWFile
 uid: c64a9a1d-e7be-fb2c-0c7c-8825d69c5163
 ---

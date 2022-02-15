@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Raytracing for Parallax 3-D Display
-type: OCWFile
 uid: f0f59626-6aef-c533-e5fe-d219622c34ee
 ---

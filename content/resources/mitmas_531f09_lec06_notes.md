@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Class 6: Cameras for HCI'
-type: OCWFile
 uid: b44ed195-67b2-80f0-7596-0c5978f3bd2f
 ---

@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Computational Illumination
-type: OCWFile
 uid: 3d72c5a3-357d-f158-daeb-8488e7bffd86
 ---

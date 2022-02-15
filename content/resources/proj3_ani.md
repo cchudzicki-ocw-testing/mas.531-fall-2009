@@ -14,6 +14,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Image
 title: Animation of concept
-type: OCWImage
 uid: 3bbc1464-5e2b-150b-2f37-c6f8cd4a5a08
 ---

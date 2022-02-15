@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: New Directions in Imaging Sensors
-type: OCWFile
 uid: e139c820-4b78-a3cc-1cdb-cc0dc690d147
 ---

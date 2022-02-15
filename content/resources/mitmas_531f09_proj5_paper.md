@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 3D Texture Maps from an Articulated Sensor Camera Mesh
-type: OCWFile
 uid: 85068dd1-110a-d439-fa94-56111d423caf
 ---

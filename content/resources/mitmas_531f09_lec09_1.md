@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Computational Imaging: A Survey of Medical and Scientific Applications'
-type: OCWFile
 uid: b0c7f88b-8fad-a31f-9e9a-5ffdfb00f261
 ---

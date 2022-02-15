@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Wavelengths and Colors
-type: OCWFile
 uid: 7b9d8b0a-7443-41f8-3848-724a9161c37a
 ---

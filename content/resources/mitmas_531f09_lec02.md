@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Modern optics and lenses; ray-matrix operations; context enhanced imaging
-type: OCWFile
 uid: ffb4e9da-5950-6c4c-ad61-1e4a64b66a28
 ---

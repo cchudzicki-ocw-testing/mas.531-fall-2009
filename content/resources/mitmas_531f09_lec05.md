@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Introduction to Light Fields
-type: OCWFile
 uid: 40e9d54e-4035-08a3-53d0-5a8b34a67258
 ---
