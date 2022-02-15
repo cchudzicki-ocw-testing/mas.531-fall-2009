@@ -6,6 +6,7 @@ file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/mas-531-comp
 file_type: application/octet-stream
 learning_resource_types:
 - Projects
+ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
 resourcetype: Other
