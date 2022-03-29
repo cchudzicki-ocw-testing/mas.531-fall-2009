@@ -54,7 +54,7 @@ Internet Archive ([MP3 - 14.9MB](http://www.archive.org/download/MITMAS_531F09/M
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 16.3MB](/ans7870/MAS/MAS.531/F09/LECTURE/MITMAS_531F09_lec01.pdf))
+([PDF - 16.3MB](/ans7870/MAS/MAS.531/F09/LECTURE/MITMAS_531F09_lec01.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
  no notes
@@ -78,7 +78,7 @@ Part 2
 Internet Archive ([MP3 - 22.8MB](http://www.archive.org/download/MITMAS_531F09/MITMAS_531F09_lec02_2.mp3))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link ffb4e9da-5950-6c4c-ad61-1e4a64b66a28 "PDF - 8.6MB" %}})
+({{% resource_link ffb4e9da-5950-6c4c-ad61-1e4a64b66a28 "PDF - 8.6MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link edf7161e-8f0a-0666-9eba-9a44d4435815 "PDF" %}})
@@ -263,7 +263,7 @@ Wavelengths and colors (guest lecture by Ankit Mohan)
 Internet Archive ([MP3 - 19.5MB](http://www.archive.org/download/MITMAS_531F09/MITMAS_531F09_lec08_2.mp3))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 7b9d8b0a-7443-41f8-3848-724a9161c37a "PDF - 2.5MB" %}})
+({{% resource_link 7b9d8b0a-7443-41f8-3848-724a9161c37a "PDF - 2.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -356,7 +356,7 @@ Coded imaging
 Internet Archive ([MP3 - 18.9MB](http://www.archive.org/download/MITMAS_531F09/MITMAS_531F09_lec11.mp3))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 9b592453-dcc8-51be-79ce-e815b30cf508 "PDF - 2.5MB" %}})
+({{% resource_link 9b592453-dcc8-51be-79ce-e815b30cf508 "PDF - 2.5MB" %}})
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
 no notes
@@ -371,7 +371,7 @@ Wishlist for photography
 no audio
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 528b4944-bfe0-aba2-7c2e-69b20682331f "PDF - 6.2MB" %}})
+({{% resource_link 528b4944-bfe0-aba2-7c2e-69b20682331f "PDF - 6.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
