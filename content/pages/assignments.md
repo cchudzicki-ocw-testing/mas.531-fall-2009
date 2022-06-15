@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section describes the four homework assignments for the class.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

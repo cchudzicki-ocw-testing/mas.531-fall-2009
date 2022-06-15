@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Links to related resources on computational photography, Nobel Prizes
+  related to imaging, and additional useful resources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

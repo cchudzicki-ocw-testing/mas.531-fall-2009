@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section presents selected lecture content in three forms: audio
+  recordings, slides, and scribed notes taken by students during class.'
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

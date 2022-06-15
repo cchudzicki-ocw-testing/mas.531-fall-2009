@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the reading assignments for the course along with
+  links to useful introductory material from the SIGGRAPH Computational Photography
+  course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
