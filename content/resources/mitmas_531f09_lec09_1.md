@@ -6,6 +6,7 @@ file: /courses/mas-531-computational-camera-and-photography-fall-2009/b0c7f88b8f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

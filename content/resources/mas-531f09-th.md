@@ -15,6 +15,7 @@ image_metadata:
   image-alt: Collage of three photos showing digital refocusing, plus a photo showing
     a grid-shaped light pattern through a grating.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: A grid-shaped light pattern through a grating
