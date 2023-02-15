@@ -11,7 +11,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MITMAS_531F09_lec05_3.mp4
+title: 'Lecture 5: Recent research: Retrographic Sensing for the Measurement of Surface
+  Texture and Shape'
 uid: b0066f68-81f6-469f-a7e9-abba9757ebb2
 video_files:
   video_captions_file: /courses/mas-531-computational-camera-and-photography-fall-2009/1K8HV6u9pa78ksln9qeEAaejv7JmqaMnd_transcript.webvtt
