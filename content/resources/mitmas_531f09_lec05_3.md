@@ -8,7 +8,8 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Audio
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: 'Lecture 5: Recent research: Retrographic Sensing for the Measurement of Surface
@@ -21,6 +22,15 @@ video_files:
 video_metadata:
   video_speakers: ''
   video_tags: ''
-  youtube_description: ''
+  youtube_description: "MIT MAS.531 Computational Camera and Photography, Fall 2009\n\
+    \nView the complete course: https://ocw.mit.edu/courses/mas-531-computational-camera-and-photography-fall-2009/\n\
+    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP61pwA6paIRZ30q1sjLE8b6c\n\
+    \nLecture 5: Recent research: Retrographic Sensing for the Measurement of Surface\
+    \ Texture and Shape - Part 3\n\nLicense: Creative Commons BY-NC-SA\nMore information\
+    \ at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW\
+    \ at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion\
+    \ on OCW\u2019s YouTube and other social media channels. Personal attacks, hate\
+    \ speech, trolling, and inappropriate comments are not allowed and may be removed.\
+    \ More details at https://ocw.mit.edu/comments."
   youtube_id: LP085DG79lU
 ---
