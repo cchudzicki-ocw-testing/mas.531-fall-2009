@@ -21,7 +21,7 @@ video_files:
   video_transcript_file: /courses/mas-531-computational-camera-and-photography-fall-2009/1K8HV6u9pa78ksln9qeEAaejv7JmqaMnd_transcript.pdf
 video_metadata:
   video_speakers: ''
-  video_tags: ''
+  video_tags: Retrographic Sensing, Surface Texture, Shape, Measurement
   youtube_description: "MIT MAS.531 Computational Camera and Photography, Fall 2009\n\
     \nView the complete course: https://ocw.mit.edu/courses/mas-531-computational-camera-and-photography-fall-2009/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP61pwA6paIRZ30q1sjLE8b6c\n\
