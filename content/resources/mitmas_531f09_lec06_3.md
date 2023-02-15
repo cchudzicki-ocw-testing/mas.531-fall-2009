@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Audio
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MITMAS_531F09_lec06_3.mp4
+title: 'Lecture 6: Cameras for human-computer interaction (HCI)'
 uid: 84c9979d-58c6-4890-931f-bde5b22a08bd
 video_files:
   video_captions_file: /courses/mas-531-computational-camera-and-photography-fall-2009/1VviYPBnrSSPZIIQ-h5jnwGgEiILgqSSD_transcript.webvtt
